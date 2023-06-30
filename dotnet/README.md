@@ -1,3 +1,7 @@
+Fetched from https://github.com/Smaug123/nix-templates/tree/dotnet-template
+
+---
+
 # Hello, World in .NET
 
 This flake defines:
