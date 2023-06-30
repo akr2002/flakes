@@ -1,3 +1,5 @@
+# Taken from https://flyx.org/nix-flakes-latex/
+
 {
   description = "LaTeX Document Demo";
   inputs = {
