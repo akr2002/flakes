@@ -27,6 +27,11 @@
               description = "LaTeX flake";
             };
 
+          llvm = {
+              path = ./llvm;
+              description = "LLVM-build flake";
+            };
+
           python = {
               path = ./python;
               description = "Python flake";
